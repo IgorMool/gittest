@@ -3,3 +3,5 @@ It is simply a test.
 Fix 1
 
 Fix 2
+
+Hotfix 1
